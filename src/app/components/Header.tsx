@@ -1,4 +1,4 @@
-import { Apple, Feather } from "lucide-react";
+import {  Feather } from "lucide-react";
 import Link from "next/link";
 
 
